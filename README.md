@@ -1,8 +1,11 @@
 # Defense-Isolation-Against-Digital-Adversaries
 
 Authors of the Project are:
+
 Chinmay Pandey - 2019-B-20092001A
+
 Prasad Suman Mohan - 2019-B-15112001A
+
 Ashutosh Mahajan - 2019-B-26042002
 											
 Contents:
